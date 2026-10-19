@@ -1,4 +1,4 @@
-# 赛博云机场｜3 元/月 120G（2026-10-18 更新）
+# 赛博云机场｜3 元/月 120G（2026-10-19 更新）
 
 > **一句话评价：便宜量大之选：3 元 120G 起，按量付费不清零，16 档随便挑**
 >
@@ -94,7 +94,7 @@
 <details>
 <summary>更多机场测评</summary>
 
-- [机场对比总览](https://github.com/REPLACE_OWNER/jichang-tuijian-2026)
-- [秒连云 测评](https://github.com/REPLACE_OWNER/miaolianyun-jichang)
-- [赔钱机场 测评](https://github.com/REPLACE_OWNER/peiqian-jichang)
+- [机场对比总览](https://github.com/cw11ark/jichang-tuijian-2026)
+- [秒连云 测评](https://github.com/cw11ark/miaolianyun-jichang)
+- [赔钱机场 测评](https://github.com/cw11ark/peiqian-jichang)
 </details>
