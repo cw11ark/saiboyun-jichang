@@ -1,4 +1,4 @@
-# 赛博云机场｜3 元/月 120G（2026-10-28 更新）
+# 赛博云机场｜3 元/月 120G（2026-11-02 更新）
 
 > **一句话评价：便宜量大之选：3 元 120G 起，按量付费不清零，16 档随便挑**
 >
@@ -86,6 +86,7 @@
 
 ## 更新
 
+- **2026-11-02** — 套餐与公告复核：无变化（重跑建仓入口 dry-run 通过，价格未动）。
 - **2026-10-18** — 套餐价格复核（官网接口轻量 3 元不变），公告无新增。
 - **2026-10-17** — 全节点复测：59/62 连通，延迟中位 134ms，最快 9.3 MB/s。
 
@@ -94,8 +95,8 @@
 <details>
 <summary>更多机场测评</summary>
 
-- [机场对比总览](https://github.com/cw11ark/jichang-tuijian-2026)
-- [秒连云 测评](https://github.com/cw11ark/miaolianyun-jichang)
-- [赔钱机场 测评](https://github.com/cw11ark/peiqian-jichang)
-- [贝贝云 测评](https://github.com/cw11ark/beibei-jichang)
+- [机场对比总览](https://github.com/REPLACE_OWNER/jichang-tuijian-2026)
+- [秒连云 测评](https://github.com/REPLACE_OWNER/miaolianyun-jichang)
+- [赔钱机场 测评](https://github.com/REPLACE_OWNER/peiqian-jichang)
+- [贝贝云 测评](https://github.com/REPLACE_OWNER/beibei-jichang)
 </details>
